@@ -1,6 +1,6 @@
 ### Olá, me chamo Henrique Cunha 👋
 
 - 🔭 Hoje trabalho com desenvolvimento Java 🔭
-- 🌱 Ampliando meus conhecimentos em microsserviços por meio do Spring Boot 🌱
-- 📚 Bolsista em Análise e Desenvolvimento de Sistemas 📚
+- 🌱 Ampliando meus conhecimentos para Full-stack  🌱
+- 📚 Formado em Análise e desenvolvimento de sistemas 📚
 - 🎓 Técnico em mecatrônica 🎓 
